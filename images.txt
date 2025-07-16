@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#dify1.6.0 需要的库
+#dify1.6.0 需要的库------------------------------
 langgenius/dify-api:1.6.0
 langgenius/dify-web:1.6.0
 postgres:15-alpine
@@ -33,6 +33,6 @@ matrixorigin/matrixone:2.1.1
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
-
+#dify1.6.0结束---------------------------------
 
 
