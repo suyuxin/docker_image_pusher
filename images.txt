@@ -34,4 +34,5 @@
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #dify1.6.0结束---------------------------------
-eclipse-temurin:8-jre
+#eclipse-temurin:8-jre
+louislam/uptime-kuma:latest
